@@ -3,8 +3,8 @@ Semi-Autonomous Manipulation Pipeline (AIST, Japan)
 
 .. image:: /_static/images/callmpick.png
    :alt: CALL-M robot performing autonomous shelf-picking in convenience store environment
-   :width: 300px
-   :align: left
+   :width: 400px
+   :align: center
 
 |
 
