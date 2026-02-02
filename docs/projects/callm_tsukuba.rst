@@ -40,13 +40,12 @@ Research Contributions
    **Academic Publication**
    *"Development of a semi-autonomous manipulation pipeline for robotic shelf-picking operations"*
    
-   **Status**: Under review for IEEE/SICE International Symposium on System Integration (SII2026)
+   **Status**: Presented at IEEE/SICE International Symposium on System Integration (SII2026)
    
    **Role**: First Author
 
 Links & Resources
 -----------------
 
-- 🔗 `CNRS-AIST Joint Robotics Laboratory <https://unit.aist.go.jp/jrl/en/>`_
-- 📄 *Publication details available upon acceptance*
+- `CNRS-AIST Joint Robotics Laboratory <https://unit.aist.go.jp/jrl/en/>`_
 
